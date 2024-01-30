@@ -1,7 +1,0 @@
-:host {
-  display: block;
-}
-
-div {
-  background: var(--my-default-color, lightblue) !important;
-}

@@ -1,0 +1,17 @@
+{
+  "name": "@my-components/angular",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "scripts": {
+    "build": "ng-packagr"
+  },
+  "devDependencies": {
+    "ng-packagr": "^17.1.2"
+  }
+}
