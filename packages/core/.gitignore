@@ -1,5 +1,5 @@
 dist/
-components/
+/components
 www/
 loader/
 

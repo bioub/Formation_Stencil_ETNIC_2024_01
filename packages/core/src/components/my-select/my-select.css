@@ -1,0 +1,24 @@
+:host {
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.value {
+  padding: 5px;
+  border: 1px solid var(--main-color, #222);
+  max-width: 200px;
+  cursor: pointer;
+}
+
+.menu {
+  border: 1px solid var(--main-color, #222);
+  max-width: 200px;
+}
+
+.item {
+  padding: 5px;
+  cursor: pointer;
+}
